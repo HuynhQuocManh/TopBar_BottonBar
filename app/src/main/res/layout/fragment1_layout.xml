@@ -18,5 +18,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnTEST"
         android:text="TESTBTN 1"/>
+    <ImageView
+        android:layout_centerInParent="true"
+        android:src="@drawable/logoapp"
+        android:id="@+id/imageview"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
 
 </RelativeLayout>
